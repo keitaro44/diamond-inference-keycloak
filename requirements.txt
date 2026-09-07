@@ -12,3 +12,5 @@ pycodestyle==2.10.0
 anyio==3.7.1
 starlette==0.26.1
 httpx==0.24.1
+python-dotenv==1.0.0
+python-keycloak==2.14.0
